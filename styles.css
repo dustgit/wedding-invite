@@ -1,0 +1,14 @@
+h1.couple {
+  width: 50%;
+  font-family: fantasy;
+  font-style: italic;
+}
+h2.subheading {
+  font-style: oblique;
+  color: red;
+}
+
+.email {
+  color: red;
+  font-weight: bold;
+}
